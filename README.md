@@ -67,7 +67,7 @@ Ensure the dataset is uploaded in the Colab environment at `/content/placement.c
 
 A scatter plot showing the relationship between **CGPA** and **IQ**, providing insights into how academic performance relates to intelligence levels.
 
-## 📝 ** Steps to Achieve 90% Accuracy **
+## 📝 Steps to Achieve 90% Accuracy 
 Import Required Libraries:
 
 ``` python
